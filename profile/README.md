@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/asdaadwd">  
+<a href="https://get-software-osx.github.io/.github/xminadmac">  
 <img src="https://img.shields.io/badge/Get_XMind-darkblue?style=for-the-badge&logo=apple" alt="Get XMind">  
 </a>  
 </div>  
